@@ -1,0 +1,6 @@
+name: Colorized
+version: ${project.version}
+main: de.javabasti.mcvideos.mcchatvideos.MCChatVideos
+api-version: 1.13
+authors: [JavaBasti]
+description: Play Videos in Minecraft
